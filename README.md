@@ -1,0 +1,1 @@
+This simple recipe website was for an exercise of the Odin Project in creating a simple website and using git with Github.
